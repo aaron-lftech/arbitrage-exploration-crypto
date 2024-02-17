@@ -1,0 +1,28 @@
+{
+  "exchanges": {
+      "acx":{"servers":[29,31]},
+      "anxpro":{"servers":[27,29]},
+      "bibox":{"servers":[16,31]},
+      "binance":{"servers":[11,31]},
+      "bitfinex":{"servers":[11,24]},
+      "bitlish":{"servers":[7,11]},
+      "bitstamp":{"servers":[7,11]},
+      "bittrex":{"servers":[0,20]},
+      "bleutrade":{"servers":[0,7]}, 
+      "dsx":{"servers":[7,11]}, 
+      "exmo":{"servers":[22,27]}, 
+      "gateio":{"servers":[0,20]},
+      "huobipro":{"servers":[11,31]},
+      "kraken":{"servers":[0,7]},
+      "kucoin":{"servers":[11,31]},
+      "liqui":{"servers":[11,31]},
+      "livecoin":{"servers":[0,11]},
+      "okex":{"servers":[0,31]},
+      "poloniex":{"servers":[0,7]},
+      "quadrigacx":{"servers":[0,4]},
+      "southxchange":{"servers":[0,5]},
+      "tidex":{"servers":[0,11]},
+      "zaif":{"servers":[20,22]}
+    },
+  "fiat_quotes": ["EUR", "USD", "CAD", "GBP", "RUR", "PLN", "AUD", "BRL", "NZD", "RUB", "JPY", "CHF", "CNY", "MXN", "HKD", "KRW"]
+}

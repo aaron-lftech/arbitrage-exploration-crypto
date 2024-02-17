@@ -1,0 +1,7 @@
+requests>=2.18.4
+numpy>=1.14.2
+pandas>=0.22.0
+paramiko>=2.4.1
+pysftp>=0.2.9
+tables>=3.4.2
+ccxt>=1.10.1
